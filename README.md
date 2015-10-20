@@ -1,6 +1,6 @@
 
 
-<h2> WebRTC from http://www.webrtc.org/ <h2>
+<h2> WebRTC from http://www.webrtc.org/ </h2>
 
 
 
@@ -10,7 +10,7 @@ Our mission: To enable rich, high quality, RTC applications to be developed  for
 
 The WebRTC initiative is a project supported by Google, Mozilla and Opera, amongst others. This page is maintained by the Google Chrome team.
 
-VideoEngine
+<h3>VideoEngine</h3>
 
 VideoEngine is a framework video media chain for video, from camera to the network, and from network to the screen.
 
