@@ -17,12 +17,14 @@ VideoEngine is a framework video media chain for video, from camera to the netwo
 
 Video codec from the WebM Project. Well suited for RTC as it is designed for low latency.
 
-Video Jitter Buffer
+<h3>Video Jitter Buffer</h3>
 
 Dynamic Jitter Buffer for video. Helps conceal the effects of jitter and packet loss on overall video quality.
 Image enhancements
 
 For example, removes video noise from the image capture by the webcam.
+
+<h3>Get Started!</h3>
 
 Demo of real time video chatting you can put in your app:
 https://opentokrtc.com
